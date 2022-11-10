@@ -1,0 +1,14 @@
+[
+    {
+        "name":"owner",
+        "email": "owner.gmail.com",
+        "phone": "09101111111",
+        "password": "123123123"
+    },
+    {
+        "name":"manager",
+        "email": "manager.gmail.com",
+        "phone": "09202222222",
+        "password": "12121212"
+    }
+]
